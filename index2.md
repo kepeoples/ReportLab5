@@ -23,9 +23,10 @@ I appreciate you getting in touch. Could you try executing the following command
 
 *STUDENT:*  
 Title: Debugging Scenario    
-Body:  
-Hey, I tried the command and this was my outcome:
-![Image2](TACommand.png)
+Body:   
+![Image2](TACommand.png)   
+Hey, I tried the command and this was my outcome.
+
 
 *TA:*  
 Title: Debugging Scenario    
